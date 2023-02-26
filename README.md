@@ -1,0 +1,1 @@
+This is a basic HTML recipe website. Later it will be styled using CSS but for now it might look ugly.
